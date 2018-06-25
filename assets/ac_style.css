@@ -1,0 +1,77 @@
+/* All new style arew here 
+* Author: Pankaj korde */
+body{
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+h1.page-header {
+	margin-top: -5px;
+}
+
+.sidebar {
+	padding-left: 0;
+}
+
+.main-container { 
+	background: #068190;
+	padding-top: 15px;
+	margin-top: -20px;
+}
+img {
+	display : block;
+	margin : auto;
+	cursor: pointer;
+}
+.navbar {
+	background-color: #068190 !important;
+}
+.link {
+	text-align:center;
+}
+/*.preloader{
+	background-color:#FFF;
+	height: 100%;
+	padding-top: 60px;
+	margin-left: -20px;
+	margin-top: -20px;
+	position: fixed;
+	width: 100%;
+	z-index: 2;
+}*/
+.preloader img{
+	width:100px;
+}
+.slider-row{
+	width: 98%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.slider-row div:nth-child(odd) {
+	float: left;
+    width: 40%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+	position:relative;
+}
+.slider-row div:nth-child(even) {
+    float: left;
+    width: 40%;
+    margin-bottom: 5%;
+	position:relative;
+}
+.ac_temp_save{
+	margin-top:15px;
+}
+.aci_two_input_box{
+	width:35%;
+	float:left;
+}
+.aci_two_input_box1{
+	float: left;
+    vertical-align: middle;
+    padding-top: 12px;
+    width: 15%;
+}
+.aci_submit_buttonn{
+	padding: 0px 15px 15px 60px !important;
+}
